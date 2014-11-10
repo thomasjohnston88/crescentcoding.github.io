@@ -1,3 +1,8 @@
+/*Background*/
+body {
+    background-color: #e5e5e5;
+}
+
 /* Fix to Static Navbar*/
 body { 
     padding-top: 70px; 
@@ -10,22 +15,22 @@ body {
 .box {
     
     border-radius: 2px;
-    border-left: solid 2px;
-    border-right: solid 2px;
+    border-left: solid 1px;
+    border-right: solid 1px;
     border-top-right-radius: 3px;
     border-top-left-radius: 3px;
 }
 
 .box-title {
-    background: #e5e5e5;
+    background: #ddd;
     margin-bottom: 0px;
     padding: 5px;
-    border-top: solid 2px;
+    border-top: solid 1px;
     border-bottom: solid 1px;
 }
 
 .box-text {
     padding: 5px;
-    border-bottom: solid 2px;
+    border-bottom: solid 1px;
     background: #f5f5f5;
 }
