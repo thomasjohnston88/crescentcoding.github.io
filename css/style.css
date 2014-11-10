@@ -35,10 +35,18 @@ body {
     background: #f5f5f5;
 }
 
-/*Padding*/
+/*Padding/Padding*/
 .top-padding {
     padding-top: 8px;
 }
 .right-margin {
     margin-right: auto;
+}
+
+.bottom-padding {
+    padding-bottom: atuo;
+}
+
+.top-auto-padding {
+    padding-top: auto;
 }
